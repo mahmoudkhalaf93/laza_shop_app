@@ -114,8 +114,3 @@ Follow these steps to set up and run the project locally:
    flutter run -d chrome
    ```
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
